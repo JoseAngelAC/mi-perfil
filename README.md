@@ -11,8 +11,8 @@ Soy un perfil técnico multidisciplinar con base en **La Roda, España**. Mi car
 
 ## 🌐 Mi Sitio Web
 Puedes ver mi página de presentación terminada y descargar mi CV actualizado aquí:
-👉 **[Visitar mi Web Personal](https://tu-usuario.github.io/nombre-de-tu-repositorio/)**
-*(Sustituye este enlace por el tuyo real)*
+👉 **[Visitar mi Web Personal] https://joseangelac.github.io/mi-perfil/**
+
 
 ## 🛠️ Stack en aprendizaje
 Aunque mi perfil es híbrido, estoy dedicando mis esfuerzos actuales a:
@@ -27,4 +27,5 @@ Mi meta es aportar mi experiencia en sectores críticos (Salud/Farmacia) al mund
 *Si quieres contactar conmigo para una colaboración o simplemente charlar sobre tecnología y salud, no dudes en escribirme.*
 
 [LinkedIn](https://www.linkedin.com/in/jose-angel-arenas-17046a108/) | [Email](mailto:jose_angelac@outlook.com)
+
 
